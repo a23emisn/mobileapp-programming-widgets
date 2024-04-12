@@ -13,6 +13,7 @@ till parent för höger och vänster så att den blev centrerad.
 lägger sig under bilden, satte contraints för mellanrum över, och vid sidorna, 
 samt tog bort constraintRight, så att knappen håller sig till höger kant i layouten.
 ```
+
 1.
 <EditText
         android:id="@+id/editText"
